@@ -7,8 +7,7 @@ package javatest;
 
 /**
  *
- * @author burge
- *  12345678
+ * @author burgess
  */
 public class JavaTest1 {
 
